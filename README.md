@@ -25,4 +25,4 @@ Este es un formulario de login creado con Java (Swing GUI) y MySQL para autentic
 
 
 ## 👤 Autor
-Martín Coder – [@TuLinkedin](https://linkedin.com/in/martinmaidana)
+Martín [Coder – [@TuLinkedin](https://linkedin.com/in/martinmaidana)](https://www.linkedin.com/in/martinnmaidana/)
